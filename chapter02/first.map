@@ -1,4 +1,5 @@
 # This is our first mapfile
+MAP
 NAME "First"
 SIZE 400 300
 IMAGECOLOR 255 255 255
